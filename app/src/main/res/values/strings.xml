@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="t1">
+<u>"Утром                  12°"</u>
+</string>
+    <string name="t2">
+<u>"Днем                   21°"</u>
+</string>
+    <string name="t3">
+<u>"Ночью                11°"</u>
+</string>
+    <string name="t4">
+<u>"Утром                7°"</u>
+</string>
+    <string name="t5">
+<u>"Днем                 15°"</u>
+</string>
+    <string name="t6">
+<u>"Ночью              8°"</u>
+</string>
+    <string name="t7">
+<u>"Утром               14°"</u>
+</string>
+    <string name="t8">
+<u>"Днем                21°"</u>
+</string>
+    <string name="t9">
+<u>"Ночью             15°"</u>
+</string>
+    <string name="t10">
+<u>"Утром               17°"</u>
+</string>
+    <string name="t11">
+<u>"Днем               27°"</u>
+</string>
+    <string name="t12">
+<u>"Ночью            18°"</u>
+</string>
+    <string name="t13">
+<u>"Утром              10°"</u>
+</string>
+    <string name="t14">
+<u>"Днем               17°"</u>
+</string>
+    <string name="t15">
+<u>"Ночью            11°"</u>
+</string>
+    <string name="t16">
+<u>"Утром              9°"</u>
+</string>
+    <string name="t17">
+<u>"Днем               16°"</u>
+</string>
+    <string name="t18">
+<u>"Ночью            10°"</u>
+</string>
+    <string name="text">
+"Лучшее приложение \n о погоде!"
+</string>
+</resources>
